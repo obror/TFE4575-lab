@@ -10,8 +10,10 @@ top.shapes(l1).insert(pya.Box(0, 0, 10, 2000))
 
 layout.write("/Users/anders/Downloads/Single_LED.GDS")
 
-<<<<<<< HEAD
-print('hello world')
-=======
+
+# print('hello world')
+
 print("dude no fuck off")
->>>>>>> anders
+
+print('hello Anders')
+
